@@ -10,7 +10,7 @@ Second years in **Computer Science** at **Vietnam National University of Hanoi**
 
 [![Static Badge](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/ThePickaxe91)
 [![Static Badge](https://img.shields.io/badge/Youtube-red)](https://www.youtube.com/@namdao2672)
-![Static Badge](https://img.shields.io/badge/Gmail-ThePickaxe91%40gmail.com-social)
+![Static Badge](https://img.shields.io/badge/Gmail-daophuongnam.dev%40gmail.com-social)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thep1ckaxe91&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
