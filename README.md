@@ -1,17 +1,18 @@
-# 💫 About Me:
+# Hi, I'm Dao Phuong Nam
 
-## 🌱 What I am doing
-I'm currently trying to dive deep into **C/C++** _rabbit hole_ (I know this is literally a death wish 💀) by doing some small scale, side project, planning to switch to larger scale like a _game engine_ or _physics engine_ since I love math. 
+**C++ Systems Student @ VNU-UET | High-Performance Computing | Optimization Specialist**
 
-## 🏢 Education
-Second years in **Computer Science** at **Vietnam National University of Hanoi**.
+I am a Computer Science student obsessed with the "Hot Path." While others focus on abstraction, I focus on memory latency, CPU cache coherency, and Linux internals. My goal is simple: **Software must respect the Hardware.**
 
-## 🌐 Socials:
+### 🚀 Current Priority
+**Refactoring [Sandtris](https://github.com/thep1ckaxe91/Sandtris)** — A legacy game engine + .
+* **Goal:** Scaling simulation throughput from 60 FPS to 600+ FPS.
+* **Technique:** Replacing OOP with **Data-Oriented Design**, implementing **Texture Locking** for direct VRAM access, and linearizing memory layouts to minimize L1/L2 cache misses.
 
-[![Static Badge](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/ThePickaxe91)
-[![Static Badge](https://img.shields.io/badge/Youtube-red)](https://www.youtube.com/@namdao2672)
-![Static Badge](https://img.shields.io/badge/Gmail-daophuongnam.dev%40gmail.com-social)
+### 🛠️ The Toolkit
+* **Languages:** C++20 (Strong), C, Python (Systems Automation), Bash.
+* **Engineering:** Linux (Arch/Endeavour), Docker, CMake, GDB, Valgrind.
+* **Concepts:** RAII, Move Semantics, Lock-free Concurrency, SIMD.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thep1ckaxe91&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thep1ckaxe91&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[LinkedIn](https://www.linkedin.com/in/nam-%C4%91%C3%A0o-253a12211/) • [Email](mailto:daophuongnam.dev@gmail.com)
