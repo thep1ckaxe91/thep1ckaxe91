@@ -5,7 +5,7 @@
 I am a Computer Science student obsessed with the "Hot Path." While others focus on abstraction, I focus on memory latency, CPU cache coherency, and Linux internals. My goal is simple: **Software must respect the Hardware.**
 
 ### 🚀 Current Priority
-**Refactoring [Sandtris](https://github.com/thep1ckaxe91/Sandtris)** — A legacy game engine + .
+**Refactoring [Sandtris](https://github.com/thep1ckaxe91/Sandtris)** — A legacy game engine + bad implementation.
 * **Goal:** Scaling simulation throughput from 60 FPS to 600+ FPS.
 * **Technique:** Replacing OOP with **Data-Oriented Design**, implementing **Texture Locking** for direct VRAM access, and linearizing memory layouts to minimize L1/L2 cache misses.
 
