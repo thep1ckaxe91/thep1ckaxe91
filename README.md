@@ -15,4 +15,3 @@ I am a Computer Science student obsessed with the "Hot Path." While others focus
 * **Concepts:** RAII, Move Semantics, Lock-free Concurrency, SIMD.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/nam-%C4%91%C3%A0o-253a12211/) • [Email](mailto:daophuongnam.dev@gmail.com)
