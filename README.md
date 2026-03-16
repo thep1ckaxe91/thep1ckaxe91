@@ -1,13 +1,13 @@
 # Dao Phuong Nam
 **Systems Engineer | High-Performance Computing | C++ Optimization**
 
-Computer Science student at VNU-UET focused on **Hardware Sympathy**—optimizing memory layouts, minimizing CPU cache misses, and reducing instruction latency. I engineer software that respects the physical constraints of the hardware.
+Computer Science student at VNU-UET focused on performance focus softwares.
 
 ---
 
-### Featured Project: High-Performance Tetris Engine
+### Featured Project: High-Performance Tetris (But it's sands) Engine
 
-A study in transforming a legacy simulation into a high-throughput engine using **Data-Oriented Design** and **Linux Systems Programming**.
+A study in transforming a legacy simulation into a high-throughput engine using **DOD**.
 
 | Metric | Legacy Implementation | Optimized Engine (Current) | Improvement |
 | :--- | :--- | :--- | :--- |
@@ -21,9 +21,9 @@ A study in transforming a legacy simulation into a high-throughput engine using 
 * **Diagnostics:** Profiling via `perf` and Hotspot to identify and eliminate driver overhead.
 
 **Engineering Roadmap (Q1-Q2 2026):**
-* [ ] **Modernization:** Refactoring legacy "C with Classes" patterns to idiomatic **C++20** (Concepts, Ranges, Strong Types).
-* [ ] **Concurrency:** Decoupling Render and Logic loops into isolated threads using a **lock-free SPSC queue**, utilizing **CPU Affinity (Thread Pinning)** to prevent core migration and cache thrashing.
-* [ ] **Networking:** Implementing a **LAN PvP layer** using non-blocking UDP sockets for real-time state synchronization (opponent view).
+* [ ] **Modernization:** Refactoring legacy "C with Classes" patterns to idiomatic **C++23** (Concepts, Ranges, Strong Types, RAII).
+* [ ] **Concurrency:** Seek performance gain with concurrency optimization, either data structure or algorithm.
+* [ ] **Networking:** Implementing a **LAN PvP layer** using **TCP / custom UDP**.
 * [ ] **SIMD:** Exploring AVX2 intrinsics to vectorize collision detection (Stretch Goal).
 
 [View Repository](https://github.com/thep1ckaxe91/Sandtris)
@@ -33,19 +33,19 @@ A study in transforming a legacy simulation into a high-throughput engine using 
 ### Technical Arsenal
 
 **Languages**
-* **C++20:** Concepts, Move Semantics, RAII.
+* **C++20:** Concepts, Move Semantics, RAII. (On going)
 * **C:** Raw memory management, Linux System Calls.
 * **Python:** Systems automation and build scripts.
 
 **Systems & Tools**
-* **Environment:** Linux (Arch/EndeavourOS), Bash, Vim.
-* **Build/Debug:** CMake (FetchContent), GDB, Linux `perf`.
-* **Virtualization:** Docker, Linux Namespaces/Seccomp.
+* **Environment:** Linux (Arch/EndeavourOS), Bash, NeoVim.
+* **Build/Debug:** CMake, GDB, Linux `perf`.
+* **Virtualization:** Docker, Linux seccomp.
 
 **Core Competencies**
 * Data-Oriented Design (DOD)
 * Low-Latency Audio/Video Pipeline
 * Lock-free Concurrency
-* Algorithm Optimization (Graph Theory, Flow Networks)
+* Algorithm Optimization
 
 ---
